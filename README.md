@@ -24,7 +24,7 @@ I have recently achieved Code Institute Full Stack Software Development course.
 ### Contact Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/amanda-mascurine)  
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/seminole_eagle_dev)
 
 
 ### My Tech Stack
@@ -32,12 +32,13 @@ I have recently achieved Code Institute Full Stack Software Development course.
 #### 👩🏻‍🏫 I'm Currently Learning
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🎨 Designs & Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%2360b9fe.svg?style=for-the-badge&logo=Lucidchart&logoColor=FFFFFF)
 
 #### < > Programming Languages
 
@@ -80,6 +81,7 @@ I have recently achieved Code Institute Full Stack Software Development course.
 
 ## GitHub statistics
 
-![GitHub stats](https://github-readme-)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaCIdev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iris-Smok&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaCIdev&layout=compact&theme=radical)
