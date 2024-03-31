@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# AMANDA MASCURINE
+# AMANDA 
 ## Junior Software Developer
 
 ### About Me
