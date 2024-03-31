@@ -11,13 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 
 # AMANDA 
-## Junior Software Developer
+## Junior Full Stack Software Developer
 
 ### About Me
 
-Hi there I'm Amanda, a Junior Full Stack Developer, 
-
-I have recently achieved Code Institute Full Stack Software Development course. 
+I have recently achieved a Code Institute Full Stack Software Development Bootcamp. 
 
 - - -
 
