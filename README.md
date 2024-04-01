@@ -32,6 +32,9 @@ I have recently achieved a Code Institute Full Stack Software Development Bootca
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Linear Regression](https://img.shields.io/badge/Linear%20Regression-Algorithm-%23239120.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Linear_regression)
+
 
 #### 🎨 Designs & Wireframes
 
