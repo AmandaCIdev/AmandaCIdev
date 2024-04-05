@@ -38,6 +38,7 @@ I have recently achieved a Code Institute Full Stack Software Development Bootca
 
 #### 🎨 Designs & Wireframes
 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-%2360b9fe.svg?style=for-the-badge&logo=Lucidchart&logoColor=FFFFFF)
 
