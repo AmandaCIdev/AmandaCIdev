@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-I have recently achieved a Code Institute Full Stack Software Development Bootcamp. 
+I have recently achieved with Code Institute - Full Stack Software Development Skills. 
 
 - - -
 
