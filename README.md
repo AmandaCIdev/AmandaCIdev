@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-I have recently achieved Full Stack Software Development skills with Code Institute, a member of FinTech Wales.
-- - -
+I recently attained Full Stack Software Development skills from Code Institute, an esteemed member of FinTech Wales.
 
 ### Contact Me
 
